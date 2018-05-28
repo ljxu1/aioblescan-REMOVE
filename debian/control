@@ -1,0 +1,10 @@
+Source: aioblescan
+Section: contrib/net
+Priority: extra
+Maintainer: UBNT Package Maintainers <maintainers@ubnt.com>
+Build-Depends: debhelper (>= 5), python2.7
+Standards-Version: 3.7.2
+
+Package: aioblescan
+Architecture: all
+Description: Python 3/asyncio library to listen for BLE advertized packets.
